@@ -15,5 +15,12 @@
 
 ![image](https://user-images.githubusercontent.com/100698149/164721921-aedec875-b852-41b1-b9af-3a428c61bf86.png)
 
+## - Reset Password
+![image](https://user-images.githubusercontent.com/100698149/164722104-b23a83b2-7c64-435c-b350-bccdae4eae25.png)
+
+## - Home
+![164083617-f593e101-7121-4a4f-95d7-a148b96196e9](https://user-images.githubusercontent.com/100698149/164722399-ed8a70b3-a2b9-4cc9-8613-509e4c60865a.png)
+
+
 
 
