@@ -1,3 +1,3 @@
 # spring-boot-forgot-password
-|Screenshots|
+# |Screenshots|
 |---|
